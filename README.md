@@ -13,7 +13,7 @@
 
 - 🤝 I've finished **Einstein Room Management**
 
-- 👨‍💻 All of my projects are available at [https://barroczportfolio.vercel.app/](https://barroczportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portefolio](TO BE FINISHED)
 
 - 📝 I regularly write articles on [https://twitter.com/Barrocz](https://twitter.com/Barrocz)
 
